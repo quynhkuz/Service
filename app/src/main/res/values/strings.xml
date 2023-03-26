@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestReminderApp</string>
+    <string name="channel_name">channel_1</string>
+    <string name="channel_description">description</string>
+</resources>
